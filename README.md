@@ -136,13 +136,13 @@
 
 ## Recent Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilDudhatra&hide=jupyter%20notebook&hide_title=true)](https://github.com/AkhilDudhatra/github-readme-stats)
 
 
 ## All Languages So Far
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyeshchikhaliya&hide_title=true)](https://github.com/Priyeshchikhaliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilDudhatra&hide_title=true)](https://github.com/AkhilDudhatra/github-readme-stats)
 <br></br>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Priyeshchikhaliya"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Priyeshchikhaliya&custom_title=Priyesh%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AkhilDudhatra"><img alt="Priyesh Chikhaliya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkhilDudhatra&custom_title=AkhilDudhatra%20Chikhaliya's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
