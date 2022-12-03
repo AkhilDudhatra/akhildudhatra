@@ -39,6 +39,10 @@
 
 
 
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake.svg" alt="utkarsh pathrabe stats snake" />
+</p>
+
 
 
 
