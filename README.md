@@ -8,16 +8,19 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Priyeshchikhaliya&label=Profile%20views&color=0e75b6&style=plastic" alt="Priyeshchikhaliya" /> 
-<!-- 	<a href = "https://commits.top/india.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Priyeshchikhaliya" target="_blank"/> 
-	</a> -->
 </p>
 
-## :sassy_man:  About me
-- :school: I am a `Software Engineer`, Currently working at Drevol Software LLP
-- :technologist: I love  `Problem Solving`
-- :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1-eHcp-UwXZqPYzgRWnmbztAql3W_ub1v/view?usp=drivesdk).
-- :nerd_face: `Eager to learn new things`
-<br></br>
+<img align="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="40%" hight='30%'
+  alt="">
 
+<hr>
+
+- I’m looking to collaborate on **OpenSource Projects** 
+
+- 👨‍💻 All of myprojects are available at **[My Portfolio](https://rajanportfolio.netlify.app/)** 
+ 
+- 📫 How to reach me **rajankathiriya99@gmail.com**
+
+- 📄 <a href="/MY RESUME.pdf" download >My Resume.. </a> 
+
+ <hr>
