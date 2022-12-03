@@ -20,6 +20,4 @@
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1-eHcp-UwXZqPYzgRWnmbztAql3W_ub1v/view?usp=drivesdk).
 - :nerd_face: `Eager to learn new things`
 <br></br>
-##  Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyeshchikhaliya&show_icons=true&theme=vuw&hide=prs,contribs)
 
