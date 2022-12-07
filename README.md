@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://www.lambdatest.com/resources/images/news24.gif" height="175px" /></a>
 
 <h1 align="center">Hi , My self Akhil Dudhatra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"></h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I am Full Stack Developer from India.</h3>
 
 
 
