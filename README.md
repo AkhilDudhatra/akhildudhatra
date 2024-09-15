@@ -49,7 +49,13 @@
 <code> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" /> </a></code>
 <code> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" /> </a></code> -->
 </p>
+<br/>
 
+<p align="center">
+    <a href="https://github.com/rajankathiriya/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajan kathiriya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajankathiriya&theme=react&hide_border=false" />
+    </a>
+</p>
 
 
 
