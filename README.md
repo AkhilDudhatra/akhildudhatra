@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/rajankathiriya/github-readme-streak-stats">
+    <a href="https://github.com/akhildudhatra/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajan kathiriya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajankathiriya&theme=react&hide_border=false" />
     </a>
 </p>
